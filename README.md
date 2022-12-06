@@ -1,12 +1,12 @@
 ## Soy Elkin Dario Palacios Rodriguez, Estudiante de Ingeniería de Sistemas y Quality Assurance Automation!
 
-<div class="center">
+<div align="center">
   <a href="https://github.com/elkinparo">
   
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=elkinparo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="ediem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkinparo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
 
   <img align="center" alt="Elkin-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Elkin-Cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
