@@ -1,6 +1,6 @@
 ## Soy Elkin Dario Palacios Rodriguez, Estudiante de Ingeniería de Sistemas y Quality Assurance Automation!
 
-<div align="center">
+<div class="center">
   <a href="https://github.com/elkinparo">
   
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=elkinparo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
